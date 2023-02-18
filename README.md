@@ -1,7 +1,7 @@
 # Music-Player-Coding-Ninjas
 
 You can see the website live at:-
-https://music-player-coding-ninjas.vercel.app/
+https://music-player-theta-six.vercel.app/
 
 ## Deployment with Docker
 ```
